@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+.homecomponent {
+  display: flex;
+}
+
+.secondcomponent {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.secondcomponent {
+  width: 80%;
+  margin-left: 18rem;
+  background-color: #607d3b;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.secondcomponent1 {
+  flex: 0.5;
+  display: flex;
+  flex-direction: column;
+  color: white;
+  margin-left: 5rem;
+  width: 100%;
+  height: 20vh;
+}
+.secondcomponent2 {
+  flex: 0.5;
+  width: 100%;
+}
+
+.imagetag {
+  width: 30rem;
+  height: 20rem;
+}
